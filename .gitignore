@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+dist/
+google-services.json
+.env.local
+*.jks
+*.p8
+*.p12
