@@ -46,6 +46,13 @@
           "microphonePermission": false
         }
       ]
-    ]
+    ],
+    "extra": {
+      "api": "https://www.cod.com.bd/api/v1/",
+      "eas": {
+        "projectId": "88b7f7ca-6e60-4da9-8048-317e3f502823"
+      }
+    },
+    "owner": "sumonapps"
   }
 }
